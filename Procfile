@@ -1,0 +1,2 @@
+web: gunicorn newsaggregator.wsgi:application
+
